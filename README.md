@@ -11,6 +11,8 @@ I hope to learn the ways to logically choose and justify visualisations that app
 # Portfolio
 
 # Assignments
+[Week 1](Data visualization critique #1.md)
+[Week 2](Data visualization #1.md)
 
 # Project
 [Final Project](project.md)
