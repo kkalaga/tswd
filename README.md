@@ -14,7 +14,9 @@ My online portfolio
 # Assignments
 [Week 1](Data_visualization_critique_1.md)
 
-[Week 2](Datavisualization1.md)
+[Week 2](Data_visualization_1.md)
+
+[Week 3](Critique_by_Design.md)
 
 # Project
 [Final Project](project.md)
