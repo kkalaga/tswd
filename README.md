@@ -13,7 +13,7 @@
 > *My online portfolio*
 
 # Assignments
-> **[Week 1]**(Data_visualization_critique_1.md)
+> **[Week 1](Data_visualization_critique_1.md)**
 
 > **[Week 2](Data_visualization_1.md)**
 
