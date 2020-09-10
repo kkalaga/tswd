@@ -9,6 +9,7 @@ Hello! I am a student in the Telling Stories with Data course. My name is Kamane
 I hope to learn the ways to logically choose and justify visualisations that appropriately convey the idea
 
 # Portfolio
+My onlin portfolio
 
 # Assignments
 [Week 1](Data-visualization-critique-#1.md)
