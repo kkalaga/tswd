@@ -13,4 +13,4 @@ I hope to learn the ways to logically choose and justify visualisations that app
 # Assignments
 
 # Project
-[a relative link](project.md)
+[Final Project](project.md)
