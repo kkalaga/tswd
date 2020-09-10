@@ -9,3 +9,7 @@ Hello! I am a student in the elling Stories with Data course. My name is Kamanee
 I hope to learn the ways to logically choose and justify visualisations that appropriately convey the idea
 
 # Portfolio
+
+# Assignments
+
+# Project
