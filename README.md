@@ -13,7 +13,7 @@
 > *My online portfolio*
 
 #### Week 2 In class exercise
-> ** King County COVID-19 Visual**
+> **King County COVID-19 Visual**
 <div class="flourish-embed flourish-chart" data-src="visualisation/3707687" data-url="https://flo.uri.sh/visualisation/3707687/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Assignments
