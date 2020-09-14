@@ -1,5 +1,6 @@
 # Assignment 2: Data visualization #1 - Visualizing government debt
 # Week 2
+## Link to online portfolio: https://kkalaga.github.io/tswd/
 
 ### Part 1: Working with web-based visualization tools and data
 
