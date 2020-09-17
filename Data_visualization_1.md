@@ -18,7 +18,8 @@
 
 ##### Comparing the three visuals above
 > All the three above viuals have the same data set but they tell a slightly different story and cater to different target audience. The first bar graph and heatmap is used to see over all trends for all the countries together and they can easily help audience understand where is the general trends and where outliers lie. One of the main difference between the bar graph and heat map is that the bar graph can only tell us about one choosen year where as the heatmap can show trends throughout all the years. These trends through out the year can also be acheived using the second visual which is a grid of lines. But grid of lines has multiple plots one for each country and we can only see trend for one country through the years. This two dimensional type of trend functionality in heat map was the main factor for my choice for this dataset. 
-To summarize, the following are the focus points for each visual:
+
+> To summarize, the following are the focus points for each visual:
 > 1. Bar chart: Trend across all the countries for a single year
-  2. Grid of lines: Trend across years for each country plotted on a separate plot
-  3. Heatmap: Trend across all the countries through all the years
+> 2. Grid of lines: Trend across years for each country plotted on a separate plot
+> 3. Heatmap: Trend across all the countries through all the years
