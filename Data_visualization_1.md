@@ -2,6 +2,11 @@
 # Week 2
 ## Link to online portfolio: https://kkalaga.github.io/tswd/
 
+### Source
+> The data used for all the visuals below is called the "General Government Debt" dataset from "The Organization for Economic Co-operation and Development (OECD)". It contains debt to GDP ratio across different years and for different countries.
+> According to OECD,
+> *** "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits." ***
+
 ### Part 1: Working with web-based visualization tools and data
 
 <iframe src="https://data.oecd.org/chart/65vM" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65vM" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2017</a></iframe>
