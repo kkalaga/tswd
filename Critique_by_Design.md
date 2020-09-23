@@ -3,4 +3,4 @@
 
 ### Original Visualization
 ###### Link: https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/india/
-![alt text](Original_screenshot.PNG)
+![alt text](Original_screenshot.PNG =250x250)
