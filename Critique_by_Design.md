@@ -6,6 +6,7 @@
 
 ![alt text](Original_screenshot.PNG)
 Source: Thomson Reuters COVID-19 Tracker (India) (https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/india/)
+
 The visuals I am using are the graphs "Infections in Asia and Middle East" and "Infections, globally" under "Total infections and deaths". I thought these same redesigns are also applicable for "Deaths in Asia and Middle East" and "Deaths, globally"
 
 There have been many recent visualizations on COVID-19 cases tracking. As many have been already used to make false assumptions and criticized, there have also been many visuals that provided insights on the progression of the pandemic. As I was keeping track of the number in India as my family lives there, I have come across this website that tracks and highlights India and its position. When I saw it, I immediately wanted to understand and analyze the visualization.
