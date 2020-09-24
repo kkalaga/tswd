@@ -44,4 +44,4 @@ FInally, I came up with the following wireframe/sketch.
 
 <iframe src="https://public.tableau.com/views/assignment3_1_16009106979950/Sheet1?:showVizHome=no&:embed=true" width="100%" height="500"></iframe>
 
-Data Source: ![Oxford Coronavirus Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
+Data Source: [Oxford Coronavirus Government Response Tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
