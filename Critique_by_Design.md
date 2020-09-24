@@ -40,4 +40,6 @@ FInally, I came up with the following wireframe/sketch.
 ### **Final Visuals:**
 >After the necessary changes, these the final visuals that might be easier to understand for the context.
 
-<iframe src="https://public.tableau.com/views/assignment3_16009105626970/Sheet3?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/assignment3_16009105626970/Sheet3?:showVizHome=no&:embed=true"></iframe>
+
+<iframe src="https://public.tableau.com/views/assignment3_1_16009106979950/Sheet1?:showVizHome=no&:embed=true"></iframe>
