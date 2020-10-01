@@ -13,10 +13,12 @@
 *Resolution:* Understanding what they represent and respecting them might be the only solution.
 
 From the below story arc, I am exppecting my readers to firstly be shocked about the success. When the comparison to Beatles is mentioned, I expect them to be a little critical or not convinced about why BTS is so successful. When I mention the hate, I believe they would sympathize a little and then become sad when I mentioned the effects hate has on the artists' miind. I would then bring their mood up by saying why fans are so connected and the things thwy did to lift BTS up and support them during those times. FInally I would talk about what is expected from the readers, either to learn more about BTS if they like them or atleast respect them as artists, which could either be a positive or a neutral reaction respectively.
+
 ![alt text](story_arc.jpeg)
 
 ### 2. Sketches
 I sketched my story structure using the method given in the text book and the image is below.
+
 ![alt text](story_sketch.jpeg)
 
 ### 3. Data Sources
