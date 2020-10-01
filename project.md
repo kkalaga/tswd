@@ -1,6 +1,6 @@
 # Final Project
-# Name: Kamaneeya Kalaga
-# Andrew ID: kkalaga
+#### Name: Kamaneeya Kalaga
+#### Andrew ID: kkalaga
 
 ## Part 1
 ### 1. Outline
