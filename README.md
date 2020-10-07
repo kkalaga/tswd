@@ -22,5 +22,7 @@
 
 > **[Week 3](Critique_by_Design.md)**
 
-## Project
-> **[Final Project](project.md)**
+## Final Project
+> **[Part 1](project1.md)**
+
+> **[Part 2](project2.md)**
