@@ -3,7 +3,7 @@
 #### Andrew ID: kkalaga
 
 ## Part 2
-### 1. Wireframe'
+### 1. Wireframe
 > I took a new approach to my story telling here. I wanted to make the readers more relaxed and also given topic, I wanted to present information in an easy to digest manner. So, I thought of a fake moke trial format to present the topic. The wireframe fo that is given below. I had to make a document with few more sentences to help the narrative.
 But to clarify, it is a mock trial where claims are what haters are accused of and evidences are BTS achievements which prove that haters are wrong (not the ususal flow). 
 
